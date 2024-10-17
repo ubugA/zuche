@@ -24,3 +24,17 @@
 ![m2](https://github.com/user-attachments/assets/f4e74944-d494-4bdc-9f29-667fefdc0c90)
 ![m1](https://github.com/user-attachments/assets/ade69440-0fa0-408a-bb1b-14dbbc5e3de5)
 ![476b4881fd5810357398eabfd91c552](https://github.com/user-attachments/assets/edf17ec3-ca26-4bad-866e-d077ae24ce1f)
+
+
+ 
+## 项目地址
+[仿东郊到家源码](https://github.com/ubugA/dongjiao)
+--------------------------
+[陪玩源码](https://github.com/ubugA/peiwan.git)
+-----------------------------
+[陪诊源码](https://github.com/ubugA/peizhen.git)
+-----------------------------
+[租车源码](https://github.com/ubugA/zuche.git)
+-----------------------------
+[禾匠源码](https://github.com/ubugA/hejiang.git)
+-----------------------------
